@@ -1,4 +1,4 @@
-# fypocr
+# FYP OCR
 
 A new Flutter project.
 
