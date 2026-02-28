@@ -15,7 +15,7 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 # Flutter-OCR
-Overview
+#Overview
 OCR (Optical Character Recognition) is a technology that converts images of text—such as scanned documents, PDFs, or photos—into machine-readable, searchable, and editable digital text. It uses pattern recognition to identify characters, eliminating manual retyping, enhancing efficiency, and enabling data extraction from printed or handwritten documents. 
 Key Aspects of OCR Technology
 
